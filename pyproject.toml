@@ -7,13 +7,13 @@ name = "netpulse"
 version = "0.1.0"
 description = "NetPulse - Network, API, Security & Load testing Python library with CLI"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.1"
 authors = [
     { name="wheel-s", email="toshirou2002@gmail.com" }
 ]
 
 [project.scripts]
-netpulse = "NetPule.netpulse_cli:app"
+netpulse = "netpulse.cli:main"
 
 
 [tool.black]

@@ -1,2 +1,4 @@
 __pycache__
 socketTest/
+build/
+netpulse.egg-info/
