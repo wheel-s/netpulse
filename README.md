@@ -68,7 +68,7 @@ netpulse --help
 
 # Contributiong
 
-Contributions ar welcome! Please:
+Contributions are welcome! Please:
 
 1. Fork the repository
 2. Create a branch
